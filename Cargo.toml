@@ -173,7 +173,7 @@ html5ever = "0.26"
 kuchiki = { package = "kuchikiki", version = "0.8" }
 sha2 = "0.10"
 base64 = "0.22"
-jni = "0.21"
+jni = {git="https://github.com/dactest/jni-rs.git"}
 ndk = "0.9"
 tao-macros = "0.1"
 libc = "0.2"
